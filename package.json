@@ -1,0 +1,22 @@
+{
+  "author": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.9.7"
+  },
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "src/index.js",
+  "name": "ejercicio-de-clase",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "type": "module",
+  "version": "1.0.0",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
